@@ -1,3 +1,6 @@
+
+
+
 # Script DarkFacebook Versi 1.0
 
 # $ _`apt update`_
